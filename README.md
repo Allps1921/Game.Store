@@ -1,3 +1,8 @@
+Projeto desenvolvido pela Formação.Dev
+
+E-commerce de produtos eletrônicos com foco em produtos gamer.
+Projeto utilizado com finalidade de estudos utilizando Next.js, TailwindCSS
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
